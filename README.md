@@ -11,3 +11,13 @@ I pretty much exclusively use Linux (Mint), so the instructions in this tutorial
 4. parts: a listing of parts used.  This is broken down into two categories: parts I bought, and parts I printed.  Links to the STLs I printed are provided, as are where I sourced the parts.
 5. pi-integration: hardware tutorial on assembling the Raspberry Pi parts, and integrating them with the printer.
 
+### Order of Upgrades:
+
+1. Do initial Setup on Printer
+2. Flash Bootloader and install Marlin
+3. Install Hot End and Direct Drive
+4. Calibrate
+5. Set up Raspberry Pi, touchscreen, and camera
+6. Install OctoPrint
+7. Configure OctoPrint
+8. 
