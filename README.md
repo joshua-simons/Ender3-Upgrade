@@ -5,7 +5,7 @@ I pretty much exclusively use Linux (Mint), so the instructions in this tutorial
 
 ### Directory Structure:
 
-1. firmware: instructions on upgrading to the Marlin firmware.  I will give a tutorial, including pictures on how I went about this, and step by step how to do it yourself.
+1. firmware: instructions on upgrading to the TH3D firmware.  I will give a tutorial, including pictures on how I went about this, and step by step how to do it yourself.
 2. hardware: tutorial on the hardware upgrade path I took.  It will include step by step installation and calibration instructions
 3. OctoPrint: tutorial on how I installed and integrated OctoPrint with the printer.  This is the software tutorial.  The hardware side is covered in the pi-integration directory.
 4. parts: a listing of parts used.  This is broken down into two categories: parts I bought, and parts I printed.  Links to the STLs I printed are provided, as are where I sourced the parts.
@@ -16,8 +16,8 @@ I pretty much exclusively use Linux (Mint), so the instructions in this tutorial
 1. Do initial Setup on Printer
 2. Flash Bootloader and install Marlin
 3. Install Hot End and Direct Drive
-4. Calibrate
-5. Set up Raspberry Pi, touchscreen, and camera
-6. Install OctoPrint
-7. Configure OctoPrint
-8. 
+4. Install Auto Bed Leveling Sensor
+5. Calibrate
+6. Set up Raspberry Pi, touchscreen, and camera
+7. Install OctoPrint
+8. Configure OctoPrint

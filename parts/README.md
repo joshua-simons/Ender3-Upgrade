@@ -18,13 +18,17 @@
 
 [**Pi Camera:**](https://www.amazon.com/gp/product/B07SN8HB1R)  You need to be able to watch it while it prints.
 
-[**LANMU Micro SD to SD Card Extension Cable Adapter](https://www.amazon.com/gp/product/B07WLKLTTY):** I prefer to use SD cards over microSD, and I have a bunch more of them.
+[LANMU Micro SD to SD Card Extension Cable Adapter](https://www.amazon.com/gp/product/B07WLKLTTY): I prefer to use SD cards over microSD, and I have a bunch more of them.
 
-[**ELEGOO UNO R3 Board:**](https://www.amazon.com/gp/product/B01EWOE0UU) This is the Ardrino board necessary to flash the bootloader in order to install the Marlin Firmware.
+[**ELEGOO UNO R3 Board:**](https://www.amazon.com/gp/product/B01EWOE0UU) This is the Ardrino board necessary to flash the bootloader in order to install the TH3D Firmware.
+
+[**TH3D EZABL Auto Bed Leveling Kit:**](https://www.th3dstudio.com/product/ezabl-pro-plug-print-auto-bed-leveling-kit/) I also got the aluminum posts to eliminate the springy board adjustments.  This sensor is basically why I went with the TH3D firmware over vanilla Marlin.
 
 **Need to add Fans once cooling ducts are worked out.**
 
 ## Printed:
+
+**LCD Display Cover:** Keeps gunk out of the LCD control board.  I used the one that utilizes factory screws, and keeps the sound hole open.
 
 Cable Chain
 
